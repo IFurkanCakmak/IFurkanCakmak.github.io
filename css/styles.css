@@ -11469,8 +11469,6 @@ section.resume-section .resume-section-content {
   color: green;
 }
 
-body {box-sizing: border-box;}
-
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
